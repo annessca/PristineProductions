@@ -1,4 +1,4 @@
-# So You Think YOu Know - November 2021
+## SO YOU THINK YOU KNOW ENGLISH - NOVEMBER 2021
 
 1. Which of the following words describe "sky blue"?
 

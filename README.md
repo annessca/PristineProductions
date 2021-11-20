@@ -4,7 +4,7 @@ A static site where you can get information about the competitions that are host
 
 Pristine Perfect Media encompasses the social media platforms of Pristine Productions.
 
-# The Ken of Einstein
+## The Ken of Einstein
 
 __Brought to you by Pristine Productions__
 
@@ -39,4 +39,4 @@ This is the first competition by Pristine Production that was launched in July 2
 
 Picture prompts are given to competing poets to interprete into poetry in a class by it self. It is one of our very infrequent and seasonal competitions.
 
-Ann Essien<br>Brand Executive<br>Pristine Perfection Productions
+Brand Executive<br>Pristine Perfection Productions

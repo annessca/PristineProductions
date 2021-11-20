@@ -1,4 +1,4 @@
-# Ken Of Einstein - October 2021 Result Sheet
+## KEN OF EINSTEIN - OCTOBER 2021 RESULT SHEET
 
 
 | SN   | NAME                               | CODE                       | GENDER         | SCORE  |
@@ -8,4 +8,4 @@
 | 03   | Michael Ikegwu                     | SN1-EINSTEIN-8A9B          | Male           | 32     |
 | 04   | Aysha Alibashir                    | SN2-EINSTEIN-6A8B          | Female         | 30     |
 
-Ann Essien<br>Brand Executive<br>Pristine Perfection Productions
+Brand Executive<br>Pristine Perfection Productions

@@ -1,4 +1,4 @@
-# REGISTERED CANDIDATES
+## REGISTERED CANDIDATES
 
 | SN   | NAME                           | REG CODE        | GENDER  |
 |------|--------------------------------|-----------------|---------|

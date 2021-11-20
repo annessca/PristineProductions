@@ -1,4 +1,4 @@
-# Your Move
+## YOUR MOVE
 
 __Written by Hayley Igarashi__
 
@@ -85,7 +85,7 @@ The shadow in the corner, It's not a shadow.
 Okay. Your move.
 
 
-# Medusa
+## MEDUSA
 
 __Written by Douglas Richards__
 

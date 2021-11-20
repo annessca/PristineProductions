@@ -1,4 +1,4 @@
-# The Open Window
+## THE OPEN WINDOW
 
 __Written by H. H. Munro__
 
@@ -59,7 +59,7 @@ Framton grabbed wildly at his stick and hat; the hall door, the gravel drive, an
 Romance at short notice was her speciality.
 
 
-# The Secret
+## THE SECRET
 
 __Written by Christopher Long__
 
