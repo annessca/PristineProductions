@@ -1,4 +1,4 @@
-## SO YOU THINK YOU KNOW... NOVEMBER 2021
+## SO YOU THINK YOU KNOW... DECEMBER 2021
 
 1. The origin of the modern Christmas tree can be traced back to medieval _____?
 
