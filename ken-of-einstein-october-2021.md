@@ -231,5 +231,11 @@ As he left the van, he held the gun down at his side, and started the walk, a sp
 
 The end.
 
+<br><br><br>
+## THE KEN OF EINSTEIN COMPREHENSION CHALLENGE
 
+[TEST LINK HERE](https://forms.gle/LkvSUF8YwqYKCy9N9)
+
+
+__NOTE:__ The link will only be available at the stipulated time.
 
