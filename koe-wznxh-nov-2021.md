@@ -96,3 +96,10 @@ Later, when I left the home of Bob Waters, I have to admit that I was disappoint
 I had a lot to think about. The driving conditions changed frequently on the drive home; from sun to rain and back again, the weather, like my mind, it seemed, would not make a decision.
 
 A few weeks later on my lunch break I find myself looking at a copy of “Out of Sight”, featured in the bookshop window. I think to myself, “You were right to trust me Bob; I didn’t tell anyone your secret; well, I guess it's ours now.”
+<br><br><br>
+## THE KEN OF EINSTEIN COMPREHENSION CHALLENGE
+
+[TEST LINK HERE](https://forms.gle/Dz6jSNBmTtBatPcj7)
+
+
+__NOTE:__ The link will only be available at the stipulated time.
